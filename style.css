@@ -9,7 +9,7 @@ body{
     background: #E76F51;
     color: white;
 }
-.honda-text{
+.honda-text,.reviews{
     color: #E76F51
 }
 hr{
@@ -18,6 +18,18 @@ hr{
 .honda-img-gray{
     filter: grayscale(100%);
   }
-  .honda-button-border{
+.honda-button-border{
       border: 1px solid #E76F51;
   }
+#client-3{
+    width: 195px;
+    height: 195px;
+    border-radius: 50%;
+}
+.client-review-text, .news-detail{
+    color: #6C6C6C;
+    font-size: 16px;
+}
+.primary-color{
+    color: #23A6F0;
+}
