@@ -1,7 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .honda-header-bg{
     background: #264653;
 }
 
 .honda-button{
     background: #E76F51;
+    color: white;
 }
