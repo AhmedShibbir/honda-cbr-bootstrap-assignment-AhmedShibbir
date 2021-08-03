@@ -9,3 +9,12 @@ body{
     background: #E76F51;
     color: white;
 }
+.honda-text{
+    color: #E76F51
+}
+hr{
+    border-top:1px solid #E76F51;
+   }
+.honda-img-gray{
+    filter: grayscale(100%);
+  }
