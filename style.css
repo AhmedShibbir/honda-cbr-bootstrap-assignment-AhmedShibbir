@@ -39,3 +39,7 @@ footer{
 #get-the-app{
     color: #D9DBE1;
 }
+#footer-anchors a{
+    text-decoration: none;
+    color: white;
+}
